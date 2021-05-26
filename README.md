@@ -1,1 +1,1 @@
-# Created a Rock Paper Scissors Game using Python
+# Created a Rock Paper Scissors Game using Python.
